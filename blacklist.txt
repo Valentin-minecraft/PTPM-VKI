@@ -1,0 +1,13 @@
+admin
+root
+administrator
+user
+test
+guest
+manager
+support
+moderator
+superuser
+qwerty
+system
+operator
